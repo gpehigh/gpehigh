@@ -1,16 +1,13 @@
-## Hi there 👋
+<!-- markdownlint-disable MD033 MD041 -->
+<p align="center">
+  <h3 align="center">༘⋆🌷🫧💭₊˚ෆG</h3>
+</p>
 
-<!--
-**gpehigh/gpehigh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Olá+sou+a+Giovana!;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+</p>
 
-Here are some ideas to get you started:
+### 🌸 Sobre mim
+Estou cursando o técnico em Desenvolvimento de Sistemas, em breve me formarei!!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
